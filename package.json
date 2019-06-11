@@ -1,0 +1,19 @@
+{
+  "name": "pig-game",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shreyas-04/Pig-Game.git"
+  },
+  "author": "Shreyas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shreyas-04/Pig-Game/issues"
+  },
+  "homepage": "https://github.com/shreyas-04/Pig-Game#readme",
+  "description": ""
+}
